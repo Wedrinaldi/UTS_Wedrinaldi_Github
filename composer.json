@@ -1,0 +1,7 @@
+{
+    "name": "asus/uts_wedrinaldi",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
